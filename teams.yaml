@@ -6,6 +6,10 @@ managers:
     - github: im-gnar
     - github: choihuk
 
+25-kafka:
+  members:
+    - github: o3ozzvb
+
 25-java-concurrency:
   members:
     - github: Eom-Ti
